@@ -54,3 +54,17 @@ Preview
 (Add a screenshot of your page here)
 
 Enjoy exploring the COVID-19 Information Page! Stay safe. 😊
+
+the picture of website 
+
+![image](https://github.com/user-attachments/assets/83103cf1-c868-4c3f-8970-ee1d57ff5a00)
+
+another pictures
+
+![image](https://github.com/user-attachments/assets/544807b2-bf5d-4f6a-b032-fc52921566c2)
+
+and 
+
+![image](https://github.com/user-attachments/assets/ddc7d1df-9f65-42fe-934a-43371404c081)
+
+
